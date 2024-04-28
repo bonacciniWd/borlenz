@@ -7,7 +7,7 @@ export const Logo = () => {
             width={190}
             alt="logo"
             src="/logo.svg"
-            style={{ borderRadius: '10px' }}
+            style={{ borderRadius: '5px 50px 50px 85px', boxShadow: '0 4px 6px rgba(0, 0, 0, 0.4), 0 1px 3px rgba(0, 0, 0, 0.05)' }}
         />
     )
 }
